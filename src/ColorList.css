@@ -1,0 +1,11 @@
+.ColorList {
+    margin: 4rem;
+}
+
+.ColorList-addColorBtn {
+    display: inline-block;
+    width: 10rem;
+    background-color: greenyellow;
+    border-radius: 6px;
+    margin-bottom: 3rem;
+}

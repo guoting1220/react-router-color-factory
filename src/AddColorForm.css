@@ -1,0 +1,21 @@
+.AddColorForm {
+    width: 40%;
+    margin: 10rem auto;
+    background-color: rgb(213, 230, 180);
+    padding: 1.5rem;
+    border-radius: 10px;
+}
+
+.AddColorForm-input {
+    text-align: left;
+    margin: 1.5rem;    
+}
+
+.AddColorForm-btn {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(143, 122, 161);
+    color: white;
+    height: 2rem;
+    cursor: pointer;
+}

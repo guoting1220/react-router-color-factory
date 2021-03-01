@@ -1,0 +1,15 @@
+/* body {
+	padding: 0;
+	margin: 0;
+} */
+
+.Color {
+  width: 100vw;
+  height: 100vh;
+  /* use border to remove the space above ? */
+  border: 0.1px solid white;
+}
+
+.Color h2 {
+	margin:10rem;
+}
